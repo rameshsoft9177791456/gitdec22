@@ -6,5 +6,6 @@ public void hello() {
 	System.out.println("JAVA");
 System.out.println("JAVA456");
 System.out.println("JAVA456456456");
+System.out.println("Hello");
 }
 }
